@@ -15,4 +15,6 @@ This application is created in Andriod studio. In order to detect if the car is 
    
 3. Run the file in Adriod studio
 
+### Note: Read "Tutorial.pdf" for how to use the application
+
 
