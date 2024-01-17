@@ -13,8 +13,10 @@ This application is created in Andriod studio. In order to detect if the car is 
 
 1. Download the file
    
-3. Run the file in Adriod studio
+2. Run the file in Adriod studio
 
-### Note: Read "Tutorial.pdf" for how to use the application
+3. Or Simply Install the apk to your phone
+
+### Note: Read "Tutorial.pdf" for how to use the application 
 
 
